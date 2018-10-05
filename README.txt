@@ -15,4 +15,3 @@ To compile:
 
 To run include the file before execution:
 		./test testfile.c
-		./test testfile.c}
